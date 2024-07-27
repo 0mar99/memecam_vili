@@ -957,7 +957,7 @@
 .method public checkGalleryLock()V
     .locals 2
 
-    const-string v0, "com.miui.gallery"
+    const-string v0, "com.google.android.apps.photos"
 
     .line 1
     invoke-static {p0, v0}, Lcom/android/camera/Util;->isAppLocked(Landroid/content/Context;Ljava/lang/String;)Z
@@ -1841,7 +1841,7 @@
 
     move-result-object v0
 
-    const-string v2, "com.miui.gallery"
+    const-string v2, "com.google.android.apps.photos"
 
     if-eqz v0, :cond_13
 
