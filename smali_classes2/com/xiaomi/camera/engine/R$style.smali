@@ -16,6 +16,7 @@
 # static fields
 .field public static final AppTheme:I = 0x7f130011
 
+.field public static final launcher_ic_fg_cv:I = 0x7f0f0004
 
 # direct methods
 .method public constructor <init>()V

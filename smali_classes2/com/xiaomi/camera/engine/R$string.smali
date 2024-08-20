@@ -16,6 +16,7 @@
 # static fields
 .field public static final app_name:I = 0x7f120153
 
+.field public static final launcher_ic_fg_cv:I = 0x7f0f0004
 
 # direct methods
 .method public constructor <init>()V
