@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fake_landscape_screen_minor_size">392.72656dip</dimen>
+    <item type="dimen" name="miuix_appcompat_dialog_max_height_major">89.25001%</item>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="clone_guide_tips_margin_left">0.0dip</dimen>
+    <dimen name="clone_guide_tips_margin_top">308.97656dip</dimen>
+    <dimen name="clone_guide_tips_top_margin">101.099976dip</dimen>
+    <dimen name="clone_guide_title1_margin_left">0.0dip</dimen>
+    <dimen name="clone_guide_title1_margin_top">231.5dip</dimen>
+    <dimen name="clone_guide_title2_margin_left">0.0dip</dimen>
+    <dimen name="clone_guide_title2_margin_top">267.9375dip</dimen>
+    <dimen name="clone_guide_video_margin_left">119.29999dip</dimen>
+    <dimen name="clone_guide_video_margin_top">156.29999dip</dimen>
+    <dimen name="custom_tint_color_table_margin">257.4375dip</dimen>
+    <dimen name="custom_tint_color_text_left_margin">253.44dip</dimen>
+    <dimen name="custom_tint_color_use_right_margin">253.44dip</dimen>
+    <dimen name="custom_tint_preview_bottom_margin">35.549988dip</dimen>
+    <dimen name="custom_tint_preview_top_margin">18.669983dip</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/privacy_watermark_use_hint_layout" android:background="@color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/hint_image" android:layout_width="@dimen/newbie_privacy_watermark_drawable_layout_width" android:layout_height="@dimen/newbie_privacy_watermark_drawable_layout_height" android:src="@drawable/bg_privacy_watermark_drawable_layout" />
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/portrait_use_hint_title_margin_top" android:text="@string/newbie_privacy_watermark_title" style="@style/PortraitUseHintTitleStyle" />
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/portrait_use_hint_content_margin_top" android:text="@string/newbie_privacy_watermark_msg" style="@style/PortraitUseHintContentStyle" />
+</LinearLayout>

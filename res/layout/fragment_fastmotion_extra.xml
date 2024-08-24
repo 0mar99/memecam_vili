@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="@dimen/zoom_slide_layout_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/manually_extra_horizontal_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/zoom_slide_layout_height" android:layout_alignParentBottom="true">
+        <LinearLayout android:orientation="vertical" android:id="@id/manually_extra_auto_button_layout" android:layout_width="@dimen/manual_extra_recyclerview_height" android:layout_height="@dimen/manual_extra_recyclerview_height" android:layout_centerVertical="true" android:layout_marginStart="@dimen/manual_extra_recyclerview_margin_left" android:layout_marginEnd="@dimen/manual_extra_horizontal_view_left" />
+        <com.android.camera.ui.HorizontalZoomView android:id="@id/manually_extra_horizontal_view" android:paddingLeft="@dimen/manual_extra_horizontal_view_padding_left" android:paddingRight="@dimen/manual_extra_horizontal_view_padding_left" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentEnd="true" />
+    </LinearLayout>
+</RelativeLayout>

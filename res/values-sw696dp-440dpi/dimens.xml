@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="beauty_subeffect_layout_margin_left">16.363983dip</dimen>
+    <dimen name="beautycamera_beauty_subeffect_seekbar_width">254.54498dip</dimen>
+    <dimen name="bottom_snap_width">73.28dip</dimen>
+    <dimen name="clone_guide_tips_margin_left">200.01999dip</dimen>
+    <dimen name="clone_guide_tips_margin_top">31.271973dip</dimen>
+    <dimen name="clone_guide_tips_top_margin">21.799988dip</dimen>
+    <dimen name="clone_guide_title1_margin_left">331.47656dip</dimen>
+    <dimen name="clone_guide_title1_margin_top">79.81998dip</dimen>
+    <dimen name="clone_guide_title2_margin_left">298.5547dip</dimen>
+    <dimen name="clone_guide_title2_margin_top">85.81998dip</dimen>
+    <dimen name="clone_guide_video_margin_left">235.6dip</dimen>
+    <dimen name="clone_guide_video_margin_top">40.0dip</dimen>
+    <dimen name="custom_tint_preview_bottom_margin">85.5dip</dimen>
+    <dimen name="custom_tint_preview_top_margin">56.0dip</dimen>
+    <dimen name="manual_extra_horizontal_view_padding_left">32.72699dip</dimen>
+    <dimen name="manual_extra_recyclerview_margin_left">31.269989dip</dimen>
+    <dimen name="manual_extra_recyclerview_wb_item_padding">11.199982dip</dimen>
+    <dimen name="manual_popup_camera_adjust_distance_size">36.439972dip</dimen>
+    <dimen name="manual_popup_layout_margin_start">0.0dip</dimen>
+    <dimen name="manual_recyclerview_five_item_padding">9.4539795dip</dimen>
+    <dimen name="manual_recyclerview_item_padding">2.1817932dip</dimen>
+    <dimen name="manually_description_bg_image_margin_start">10.0dip</dimen>
+    <item type="dimen" name="menu_item_scale_size">0.395</item>
+    <dimen name="mode_select_item_gap">14.639099dip</dimen>
+    <dimen name="mode_select_layout_edge">14.5dip</dimen>
+    <dimen name="mode_select_margin_hor">24.72998dip</dimen>
+    <dimen name="mode_tips_item_text_margin_ver">2.5499878dip</dimen>
+    <dimen name="top_bar_margin">31.269989dip</dimen>
+    <dimen name="beautycamera_beauty_subeffect_seekbar_margin_left">25.45398dip</dimen>
+    <dimen name="bottom_action_top_margin">58.899994dip</dimen>
+    <dimen name="bottom_action_top_margin_half">29.449982dip</dimen>
+</resources>

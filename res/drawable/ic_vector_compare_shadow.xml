@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/beautycamera_ic_beauty_compare_height" android:width="@dimen/beautycamera_ic_beauty_compare_height" android:viewportWidth="90.0" android:viewportHeight="90.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ff000000" android:pathData="M50,59H65V31H50V22H71C72.6569,22 74,23.3431 74,25V65C74,66.6569 72.6569,68 71,68H50V59ZM52,29V24H71C71.5523,24 72,24.4477 72,25V65C72,65.5523 71.5523,66 71,66H52V61H67V29H52ZM40,20C40,18.3431 41.3431,17 43,17H46C47.6569,17 49,18.3431 49,20V70C49,71.6569 47.6569,73 46,73H43C41.3431,73 40,71.6569 40,70V68H19C17.3431,68 16,66.6569 16,65V25C16,23.3432 17.3431,22 19,22H40V20ZM19,66C18.4477,66 18,65.5523 18,65V25C18,24.4477 18.4477,24 19,24H42V20C42,19.4477 42.4477,19 43,19H46C46.5523,19 47,19.4477 47,20V70C47,70.5523 46.5523,71 46,71H43C42.4477,71 42,70.5523 42,70V66H19ZM42,29V61H23V29H42ZM25,31V59H40V31H25Z" android:fillAlpha="0.15" android:fillType="evenOdd" />
+</vector>

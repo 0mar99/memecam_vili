@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="beauty_subeffect_layout_margin_left">15.556dip</dimen>
+    <dimen name="beautycamera_beauty_subeffect_seekbar_margin_end">28.444dip</dimen>
+    <dimen name="beautycamera_beauty_subeffect_seekbar_width">323.10938dip</dimen>
+    <dimen name="bokeh_line_flag_width">1.4549866dip</dimen>
+    <dimen name="bokeh_line_height">11.635986dip</dimen>
+    <dimen name="bokeh_line_moving_height">14.549988dip</dimen>
+    <dimen name="bokeh_line_selected_height">24.0dip</dimen>
+    <dimen name="bokeh_line_selected_moving_height">31.269989dip</dimen>
+    <dimen name="click_toast_text_margin_horizontal">20.0dip</dimen>
+    <dimen name="click_toast_text_margin_vertical">16.0dip</dimen>
+    <dimen name="illegal_line_moving_height">14.549988dip</dimen>
+    <dimen name="manual_extra_height">70.54999dip</dimen>
+    <dimen name="manual_extra_horizontal_view_left">14.544983dip</dimen>
+    <dimen name="manual_extra_horizontal_view_padding_left">32.72699dip</dimen>
+    <dimen name="manual_extra_imageview_margin_left">38.549988dip</dimen>
+    <dimen name="manual_extra_recyclerview_lens_item_padding">61.099976dip</dimen>
+    <dimen name="manual_extra_recyclerview_wb_item_padding">11.199982dip</dimen>
+    <dimen name="manual_recyclerview_item_padding">2.1817932dip</dimen>
+    <dimen name="pro_view_zoom_view_slider_height">264.72656dip</dimen>
+    <dimen name="true_colour_logo_height">17.454987dip</dimen>
+    <dimen name="true_colour_logo_width">42.181976dip</dimen>
+    <dimen name="volume_control_panel_layout_height">72.0dip</dimen>
+    <dimen name="volume_control_panel_layout_width">28.363983dip</dimen>
+    <dimen name="zoom_button_digits_textSize">10.179993dip</dimen>
+    <dimen name="zoom_ratio_dot_text_width">32.72998dip</dimen>
+</resources>

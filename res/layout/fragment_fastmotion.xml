@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:layout_gravity="center_horizontal" android:id="@id/fastmotion_tip_layout" android:visibility="gone" android:layout="@layout/fastmotion_pro_silde_tip_layout" android:layout_width="wrap_content" android:layout_height="@dimen/fastmotion_extra_tips_height" android:layout_marginBottom="@dimen/slide_vertical_tip_gap" android:layout_above="@id/manually_extra_horizontal_layout" />
+    <com.android.camera.ui.NoScrollViewPager android:id="@id/fast_motion_viewPager" android:focusable="false" android:layout_width="wrap_content" android:layout_height="@dimen/zoom_slide_layout_height" android:layout_marginStart="@dimen/manual_popup_camera_adjust_distance_size" android:layout_marginEnd="@dimen/manual_popup_camera_adjust_distance_size" />
+</LinearLayout>
